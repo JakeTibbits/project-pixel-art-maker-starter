@@ -16,6 +16,7 @@ h2:first-of-type {
     margin-top: 0.5em;
 }
 
+
 table,
 tr,
 td {
@@ -36,5 +37,9 @@ td {
 }
 
 input[type=number] {
-    width: 6em;
+    width: 4em;
+    margin-right: 10px
+}
+input[type=submit] {
+   margin-top:10px;
 }
